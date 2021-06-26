@@ -1,0 +1,48 @@
+// Available ammo types
+buckshot
+health
+556
+m40a1
+argrenades
+357
+9mm
+shock charges
+sporeclip
+uranium
+rockets
+bolts
+trip mine
+satchel charge
+hand grenade
+snarks
+hornets
+
+// Available animation seqences
+crowbar
+wrench
+gren
+trip
+onehanded
+python
+shotgun
+gauss
+mp5
+rpg
+egon
+squeak
+hive
+bow
+bowscope
+minigun
+uzis
+m16
+m203	//m16 grenade launch
+sniper
+sniperscope
+saw
+
+// Non documented seqences
+uzis
+uzis_both	// Shooting both
+uzis_left	// Shooting, draw, reload
+uzis_right	// Shooting, draw, reload
