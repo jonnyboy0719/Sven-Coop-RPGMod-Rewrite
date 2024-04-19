@@ -536,6 +536,7 @@ final class CSCRPGCore
 	private void RegenPlayer( CBasePlayer@ pPlayer, PlayerData@ data )
 	{
 		if ( pPlayer is null ) return;
+		if ( !pPlayer.IsAlive() ) return;
 		if ( data is null ) return;
 		if ( data.bIsHurt ) return;
 		
